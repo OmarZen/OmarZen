@@ -56,7 +56,7 @@
 <!-- - name: generate-snake-game-from-github-contribution-grid
   uses: Platane/snk@v2.0.0-rc.2 -->
 <!--   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) --> -->
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
 
 
 <h2 align="left">Activites:</h2><br>
