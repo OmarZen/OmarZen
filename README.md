@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate **with other content creators**
 
-- 🤝 I’m looking for help with **🥅 2022 Goals: Contribute more to Open Source projects**
+- 🤝 I’m looking for help with **🥅 2024 Goals: Contribute more to Open Source projects and become DevOps Engineer**
 
 - 💬 Ask me about **anything related about programming and life**
 
